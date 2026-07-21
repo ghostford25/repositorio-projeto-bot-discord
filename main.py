@@ -1,4 +1,4 @@
-Exemplo de código:
+# Exemplo de código:
 
 # ==========================================
 # ESTRUTURA PRINCIPAL - BOT ANTI-TOXICIDADE
@@ -44,10 +44,10 @@ def analisar_sentimento_ia(texto):
 # Aluno 6 (Dev 4) vai trabalhar aqui
 # ------------------------------------------
 def atualizar_score_usuario(usuario_id, penalidade):
-    """
-    Recebe o ID do usuário e o valor a ser subtraído do score dele.
-    Atualiza o dicionário 'banco_usuarios'.
-    Retorna True se o usuário deve ser MUTADO (score < 50), senão False.
-    """
+    #"""
+    #Recebe o ID do usuário e o valor a ser subtraído do score dele.
+    #Atualiza o dicionário 'banco_usuarios'.
+    #Retorna True se o usuário deve ser MUTADO (score < 50), senão False.
+    #"""
     # TODO: Dev 4 fará a manipulação do dicionário e lógica de punição aqui
     pass
